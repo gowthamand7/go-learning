@@ -1,0 +1,3 @@
+this is sample text 
+from file b
+but its contain one more extra line

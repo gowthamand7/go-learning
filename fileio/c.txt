@@ -1,0 +1,4 @@
+this is sample text 
+from file c
+but its contain two more extra line
+but its contain two more extra line
